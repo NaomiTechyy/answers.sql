@@ -1,0 +1,2 @@
+select checkNumber , paymentDate, amount;
+
